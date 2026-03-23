@@ -21,4 +21,4 @@ command /examplecommand
         broadcast "The command was run!
         
 ```
-- more things will be added soon!
+- more things coming soon!
